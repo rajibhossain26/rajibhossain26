@@ -12,6 +12,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [**us-tree-canopy-change**](https://github.com/rajibhossain26/us-tree-canopy-change) | Four decades of US tree canopy change for all 3,100+ counties from 30 m USFS/NLCD rasters (~15 billion pixels a year), processed in GitHub Actions: Southeast gains, Western losses, Moran's I clusters. | Python · rasterio · GeoPandas · CI |
 | [**georgia-health-atlas**](https://github.com/rajibhossain26/georgia-health-atlas) | Where chronic disease and social needs cluster across Georgia's 159 counties: CDC PLACES 2025 data in a SQL database, global and local Moran's I hot spots, maps and findings. | SQL · Python · Spatial statistics |
 | [**healthcare-access**](https://github.com/rajibhossain26/healthcare-access) | Python package for spatial access to healthcare: 2SFCA, Enhanced and Gaussian 2SFCA, and gravity models, with OpenStreetMap drive times and equity metrics. Tested, with CI. | Python · NetworkX · OSMnx |
 | [**urban-heat-equity**](https://github.com/rajibhossain26/urban-heat-equity) | Who lives in the hottest, least green neighborhoods? Landsat surface temperature and tree cover by census tract, joined to ACS data, with robust regression and Moran's I. | Earth Engine · Python · Census API |
