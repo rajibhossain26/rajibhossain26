@@ -12,6 +12,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [**georgia-health-atlas**](https://github.com/rajibhossain26/georgia-health-atlas) | Where chronic disease and social needs cluster across Georgia's 159 counties: CDC PLACES 2025 data in a SQL database, global and local Moran's I hot spots, maps and findings. | SQL · Python · Spatial statistics |
 | [**healthcare-access**](https://github.com/rajibhossain26/healthcare-access) | Python package for spatial access to healthcare: 2SFCA, Enhanced and Gaussian 2SFCA, and gravity models, with OpenStreetMap drive times and equity metrics. Tested, with CI. | Python · NetworkX · OSMnx |
 | [**urban-heat-equity**](https://github.com/rajibhossain26/urban-heat-equity) | Who lives in the hottest, least green neighborhoods? Landsat surface temperature and tree cover by census tract, joined to ACS data, with robust regression and Moran's I. | Earth Engine · Python · Census API |
 | [**storm-canopy-change**](https://github.com/rajibhossain26/storm-canopy-change) | Hurricane canopy loss from Sentinel-2 with seasonal correction, county loss areas, and area-weighted accuracy assessment (Olofsson et al. 2014). | Earth Engine · Sentinel-2 · Python |
@@ -26,6 +27,7 @@
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=google-earth&logoColor=white)
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=flat&logo=arcgis&logoColor=white)
 ![ArcGIS Online](https://img.shields.io/badge/ArcGIS%20Online-2C7AC3?style=flat&logo=arcgis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 Remote sensing · image classification & change detection · DEM & raster analysis · network analysis · spatial statistics · GeoAI · survey research
 
