@@ -1,6 +1,6 @@
 ## Hi, I'm Rajib 👋
 
-**PhD researcher in Geography at the University of Georgia.** I use GIScience, remote sensing and GeoAI to study how built and natural environments shape people's health, and who is most exposed when disasters hit.
+**PhD candidate in Geography at the University of Georgia.** I use GIScience, remote sensing and GeoAI to study how built and natural environments shape people's health, and who is most exposed when disasters hit.
 
 - 🌡️ Environmental exposures: urban heat, greenness and tree canopy, access to healthcare
 - 🌀 Disaster resilience: hurricane impacts and evacuation equity
